@@ -6,7 +6,7 @@ import Hero from './components/Hero.jsx'
 import Brands from './components/Brands.jsx'
 import Products from './components/Products.jsx'
 import HowToOrder from './components/HowToOrder.jsx'
-import Reviews from './components/Reviews.jsx'
+
 import ContactForm from './components/ContactForm.jsx'
 import Footer from './components/Footer.jsx'
 import Admin from './pages/Admin.jsx'
@@ -21,7 +21,7 @@ function Home() {
       <Brands />
       <Products />
       <HowToOrder />
-      <Reviews />
+      
       <ContactForm />
       <Footer />
     </>
