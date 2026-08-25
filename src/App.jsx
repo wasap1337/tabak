@@ -17,7 +17,7 @@ function Home() {
       <AgeModal />
       <Navbar />
       <Hero />
-      <Features />
+      
       <Brands />
       <Products />
       <HowToOrder />
