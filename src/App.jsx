@@ -2,7 +2,7 @@ import { Routes, Route } from 'react-router-dom'
 import AgeModal from './components/AgeModal.jsx'
 import Navbar from './components/Navbar.jsx'
 import Hero from './components/Hero.jsx'
-import Features from './components/Features.jsx'
+
 import Brands from './components/Brands.jsx'
 import Products from './components/Products.jsx'
 import HowToOrder from './components/HowToOrder.jsx'
